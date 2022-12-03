@@ -58,7 +58,7 @@ Building a launcher,which is a desktop application and an installer for [Renderp
 
 <a href="https://dheemanth.netlify.app">![Dheemanth A.N. website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/dheemanth-narasimha/">![Dheemanth A.N. linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="mailto:dheemanth.simha01@gmail.com">![Dheemanth A.N. gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white</a>)
+<a href="https://twitter.com/dheedotsimha">![Dheemanth A.N. twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
 
 
 
