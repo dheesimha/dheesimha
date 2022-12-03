@@ -1,7 +1,7 @@
 ### Howdy 👋
 
 ### 😄 Intro
-I am Dheemanth A.N. ,a Full Stack Web Developer.Final year student pursuing computer science and engineering . I specialize in **MERN stack** and build tech products that I am passionate about and solves a clearly defined problem . I always believe that a strong statement of purpose is what pushes me to build something great despite all the challenges.
+I am Dheemanth A.N. ,a Full Stack Web Developer ,a final year student pursuing computer science and engineering . I specialize in **MERN stack** and build tech products that I am passionate about and solves a clearly defined problem . I always believe that a strong statement of purpose is what pushes me to build something great despite all the challenges.
 
 ### 🎯 Currently working on
 
