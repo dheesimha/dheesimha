@@ -51,8 +51,6 @@ Building a launcher,which is a desktop application and an installer for [Renderp
 >
 > --- <cite>Steve Jobs</cite>
 
-### 📈 Stats for nerds 
-![Dheemanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=dheesimha&show_icons=true&theme=transparent)
 
 ### 📫 Socials 
 
